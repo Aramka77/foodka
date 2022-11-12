@@ -1,0 +1,6 @@
+bitrix
+upload
+*.txt
+*.xls
+*.xlsx
+.htaccess
